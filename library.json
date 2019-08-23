@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-282-hmc5983-replace-hmc5883l-temperature-compensation-triaxial-compass-iic",
+  "title": "gy-282-hmc5983-replace-hmc5883l-temperature-compensation-triaxial-compass-iic",
+  "keywords": "gy-282-hmc5983-replace-hmc5883l-temperature-compensation-triaxial-compass-iic, esp32, esp8266, arduino",
+  "description": "gy-282-hmc5983-replace-hmc5883l-temperature-compensation-triaxial-compass-iic plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-282-hmc5983-replace-hmc5883l-temperature-compensation-triaxial-compass-iic/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-282-hmc5983-replace-hmc5883l-temperature-compensation-triaxial-compass-iic/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
